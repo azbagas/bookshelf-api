@@ -10,5 +10,5 @@ npm install
 npm run start
 
 # or using nodemon
-npm run start-dev
+npm run start:dev
 ```
